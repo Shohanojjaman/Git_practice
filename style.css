@@ -1,5 +1,26 @@
-* {
+*{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+h1{
+    text-align: center;
+    color: #888;
+}
+p{
+    text-align: center;
+}
+img{
+    width: 40%;
+}
+table{
+    border: 1px solid #333;
+}
+table td{
+    border: 1px solid #333;
+    padding: 5px;
+    text-align: center;
+}
+table th{
+    border: 1px solid #333;
 }
